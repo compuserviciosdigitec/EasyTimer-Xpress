@@ -1,0 +1,9 @@
+Copy all sdk *.dll files to %windir%\sysWOW64 folder , and then run cmd.exe with administrator previledge ,
+enter the following command:
+
+    %windir%\syswow64\regsvr32.exe %windir%\syswow64\zkemkeeper.dll
+If you want to unregister sdk , run cmd.exe with administrator previledge ,
+enter the following command:
+
+    %windir%\syswow64\regsvr32.exe -u %windir%\syswow64\zkemkeeper.dll
+ 
