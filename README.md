@@ -2,9 +2,13 @@
 
 ## Sistema Control de Asistencia y Kardex
 
-Administre de manera eficiente y confiable la asistencia de su personal. Reciba en tiempo real la información de retardos y faltas a su celular por correo electrónico.
+![EasyTimer](http://www.soft-xpress.com/banner/wphedtbgpjimrjfrahhrhgnyu.jpg "EasyTimer-Xpress")
+
+_Administre de manera eficiente y confiable la asistencia de su personal. Reciba en tiempo real la información de retardos y faltas a su celular por correo electrónico._
 
 ---
+
+### Características:
 
 Control de Reloj Checador por _huella digital_, _RFID_ o _código de barras_:
 
@@ -17,7 +21,8 @@ Control de Reloj Checador por _huella digital_, _RFID_ o _código de barras_:
  * Reportes por periodo, turno, empleado, grupo, departamento, etc.
  * Todos los reportes se pueden exportar a Excel.
  
- Requerimientos: 
+ ### Requerimientos: 
+ 
  * Windows XP/Vista/7/8/8.1/10.
  * Memoria RAM: 128 Mb o superior.
  
